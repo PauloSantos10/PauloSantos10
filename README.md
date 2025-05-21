@@ -10,5 +10,10 @@ Eu sou o Paulo Fran, sou um Programador Front-END, atualmente estou aprendendo e
 ### Connect with me:
 <a href="https://www.linkedin.com/in/paulo-fran-b89797346/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a> 
 <a href="https://www.instagram.com/paulin.sts_?igsh=MWU4N3M5eG9teGxwdg==/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<br>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulosantos10)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
